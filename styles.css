@@ -101,7 +101,12 @@ body {
 
 #section-1 li {
   display: inline-block;
-  margin: 1.25em .3em
+  margin: 1.25em .3em;
+  font-size: 1.5rem;
+}
+
+#section-1 li a {
+  color: rgba(255,255,255,0.4);
 }
 
 .section-1-button {
