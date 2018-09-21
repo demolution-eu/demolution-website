@@ -9,6 +9,7 @@ window.pepe = new Vue({
         menu: '#menu',
         navigation: true,
         controlArrows: false,
+        responsiveWidth: 415,
         scrollingSpeed: 1000,
         anchors: ['demolution', 'solution', 'arbeit', 'termine', 'imprint'],
         sectionsColor: ['#009DE3', '#009DE3', '#009DE3', '#009DE3', '#009DE3', '#009DE3']
