@@ -8,7 +8,6 @@ window.pepe = new Vue({
         scrollBar: false,
         menu: '#menu',
         navigation: true,
-        scrollOverflow: true,
         controlArrows: false,
         responsiveWidth: 415,
         scrollingSpeed: 1000,
